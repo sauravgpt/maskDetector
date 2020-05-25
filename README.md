@@ -1,16 +1,42 @@
-# maskdetector
+# Mask Detector
 
-A new Flutter project.
+An app which detects if a person is wearing mask or using ML.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+What things you need to install the software and how to install them
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter - Android Studio - Dart
+
+### Installing
+
+A step by step series of examples that tell you how to get a development env running
+
+Say what the step will be
+
+Get pub files using command "flutter pub get"
+
+Then run using "flutter run"
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* Flutter - The crossplatform framework
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
+* Share this project with :heart: 
+
+## Screenshots
+![](https://github.com/sauravgpt/maskDetector/blob/master/screenshots/1.png)
+![](https://github.com/sauravgpt/maskDetector/blob/master/screenshots/2.png)
